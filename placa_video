@@ -1,0 +1,8 @@
+# Placa de Vídeo (GPU - Unidade de Processamento Gráfico)
+Função: Processa gráficos e imagens, aliviando a carga da CPU. Essencial para jogos, edição de vídeo e IA.
+
+Tipos:
+
+Integrada: Parte da CPU (ex: Intel HD Graphics).
+
+Dedicada: Placa separada (ex: NVIDIA RTX 3060, AMD Radeon RX 6700).
