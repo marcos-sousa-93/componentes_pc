@@ -1,0 +1,1 @@
+# Para HDs/SSDs SATA.
